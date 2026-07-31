@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Varea Lab | Stopwatch",
+  "short_name": "Stopwatch",
+  "description": "Frame-accurate stopwatch, metronome and X-Sheet for animation: frame-based timing at 12/24/25/30/60 fps or a custom fps.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "lang": "en",
+  "dir": "ltr",
+  "background_color": "#FDFBF5",
+  "theme_color": "#FDFBF5",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
